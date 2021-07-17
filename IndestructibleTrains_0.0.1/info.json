@@ -1,0 +1,12 @@
+{
+  "name": "indestructible-trains",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "Indestructible Trains",
+  "author": "jurd",
+  "contact": "",
+  "homepage": "https://github.com/jsmills99/Indestructible-Trains",
+  "description": "Makes the entities listed below indestructible. They cannot be targeted by players or biters. Adding this mod to an existing save will make existing instances of these entities indestructible.
+  Entities: locomotive, cargo-wagon, fluid-wagon, artillery-wagon, straight-rail, curved-rail, rail-signal, rail-chain-signal, train-stop"
+  "dependencies": ["base >= 1.1"]
+}
