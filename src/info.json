@@ -1,0 +1,14 @@
+{
+  "name": "indestructible-trains-electric",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Indestructible Trains (ET)",
+  "author": "jurd, an0nfunc",
+  "contact": "",
+  "homepage": "https://github.com/an0nfunc/Indestructible-Trains-et",
+  "description": "Makes trains, wagons, signals, and train stops indestructible. They cannot be targeted by players or biters. Adding this mod to an existing save will make existing instances of these entities indestructible. Updated for Electric Trains.",
+  "dependencies": [
+    "base >= 1.1",
+    "ElectricTrain >= 1.1.2"
+  ]
+}
